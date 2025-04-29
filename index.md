@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Omo Engineer is a vibrant blog for engineering students, aspirants, and young innovators who want to build, fix, and reimagine the future. From hands-on tech hacks and electronics tutorials to real talk about the industry and how engineering can solve Nigeria’s toughest problems.
+Omo Engineer blends street smarts with technical insight to inspire the next generation of local makers and problem-solvers.
